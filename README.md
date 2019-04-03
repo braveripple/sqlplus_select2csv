@@ -1,0 +1,2 @@
+# sqlplus_select2csv
+sqlplusの結果をcsv形式に変換
